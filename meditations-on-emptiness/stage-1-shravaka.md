@@ -1,4 +1,4 @@
-# Emptiness" and Shravakana
+# "Emptiness" and Shravakana
 
 ## Letting Sutrayana Talk Back
 
@@ -6,17 +6,17 @@ As part of [Evolving Ground](evolvingground.org), we orient the start of Vajraya
 
 The first of the four is _shi-nè_. In practicing _shi-ne_, we're meant to be getting acquainted with emptiness:
 
-> Shi-nè takes us to the experience of time without content--mind without mental events. The purpose of shi-ne is to facilitate an experience of Mind in which one discovers referencelessness. This is the realization of emptiness and the knowledge that thoughts or mental events are not in themselves the fabric of Mind. The nature of Mind is sheer brilliant emptiness."
+> Shi-nè takes us to the experience of time without content--mind without mental events. The purpose of shi-nè is to facilitate an experience of Mind in which one discovers referencelessness. This is the realization of emptiness and the knowledge that thoughts or mental events are not in themselves the fabric of Mind. The nature of Mind is sheer brilliant emptiness.
 
-- Ngakpa Chögyam & Khandro Déchen, _Roaring Silence_, [2002](<(https://www.amazon.com/Roaring-Silence-Discovering-Mind-Dzogchen/dp/1570629447)>), p. 88
+- Ngakpa Chögyam & Khandro Déchen, _Roaring Silence_, [2002](https://www.amazon.com/Roaring-Silence-Discovering-Mind-Dzogchen/dp/1570629447), p. 88.
 
 As noted in several Evolving Ground discussions, "emptiness"/_sunyata_ is a word which has a long, contested history in Buddhism. There are semi-related meanings leading to semi-related ideas and practices. There are also semi-related words like "not-self"/_anatta_, "cessation"/_nibbana_, and "impermanence"/_anicca_ with contested relationships to "emptiness"/_sunyata_. These differences in meaning or interpretation can be used as a key to understanding the differences between different Buddhisms (and also understanding the roots of the endless misunderstandings and confusions among their advocates and practitioners). Each Buddhist school or vehicle could be understood as explicating a meaning of "emptiness" and elaborating the true Buddhism on its basis.
 
-I very much like the Aro formulation, ["Buddhism is a religion of method, not truth"](http://ngakma-nordzin.blogspot.com/2011/07/teachers-vehicles-in-buddhism.html). It's one of the main reasons I joined Evolving Ground. While it certainly captures _something_ that's distinctive about Buddhism in the aggregate, it doesn't really reflect the central tendency of how Buddhists and Buddhisms have gone about their thinking and talking. It may be useful then to understand how Buddhists of other Buddhisms say things in their own words (including their meta-view on Buddhism as a religion of truth vs. method). This blog post, then, is about how some Early Buddhism oriented scholar-practitioners view emptiness, not-self, cessation, and their relationship. By "Early Buddhism oriented" I mean people who attempt to ground practice in the Pali canon and allegedly reconstruct what the historical Shakyamuni Buddha thought and taught. I'll also look at what Aro seems to take from the Early Buddhist perspective in its view/method with respect to _shi-nè_, and what it doesn't.
+I very much like the Aro formulation, ["Buddhism is a religion of method, not truth"](http://ngakma-nordzin.blogspot.com/2011/07/teachers-vehicles-in-buddhism.html). It's one of the main reasons I joined Evolving Ground. While it certainly captures _something_ that's distinctive about Buddhism in the aggregate, it doesn't really reflect the central tendency of how Buddhists and Buddhisms have gone about their thinking and talking. It may be useful then to understand how Buddhists of other Buddhisms say things in their own words (including their meta-view on Buddhism as a religion of truth vs. method). This blog post, then, is about how some Early Buddhism oriented scholar-practitioners view emptiness, not-self, cessation, and their relationship. By "Early Buddhism oriented", I mean people who attempt to ground practice in the Pali canon and allegedly reconstruct what the historical Shakyamuni Buddha thought and taught. I'll also look at what Aro seems to take from the Early Buddhist perspective in its view/method with respect to _shi-nè_, and what it doesn't.
 
 ## Sutra to Tantra
 
-Concretely, Aro, as a lineage of Nyingma Vajrayana, is concerned with the move from ["Sutra to Tantra"](https://www.patreon.com/posts/sutra-to-tantra-41355682) in the understanding of emptiness. Aro breaks down vehicles the from the perspective of Dzogchen as "Sutra, Tantra, and Dzogchen", rather simply seeing Dzogchen as the highest tantra. One of the interesting things about "Sutra to Tantra" as I've encountered the phrase in my initial months of Vajrayana practice is that it's used in at least a couple of different ways:
+Concretely, Aro, as a lineage of Nyingma Vajrayana, is concerned with the move from ["Sutra to Tantra"](https://www.patreon.com/posts/sutra-to-tantra-41355682) in the understanding of emptiness. Aro does the main breakdown of vehicles from the perspective of Dzogchen as "Sutra, Tantra, and Dzogchen", rather simply seeing Dzogchen as the highest tantra. One of the interesting things about "Sutra to Tantra" as I've encountered the phrase in my initial months of Vajrayana practice is that it's used in at least a couple of different ways:
 
 1. A dynamic passage from Sutric view and method to Tantric view and method
 2. A static gestalt switch from Sutric view and method to Tantric view and method
