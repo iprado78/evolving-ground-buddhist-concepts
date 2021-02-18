@@ -77,7 +77,7 @@ Linguistically, the first stage corresponds to the first Nyingma yana, _Shravaka
 
 The key to "emptiness"/_sunyata_ in Early Buddhism is that it's almost always used in the _sunya_ form as an adjective (_x_ is empty of _y_), rather than as a noun for a free standing quality of emptiness. _From Grasping to Emptiness_ gives a summary account of all the related references in the Pali canon (Anālayo, [2010](https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/from-grasping.pdf), pp. 151 - 161).
 
-For some Early Buddhist scholar-practitioners, it's important to focus on this because it needs to a better understanding of _anatta_ as "not-self" rather than "no-self":
+For some Early Buddhist scholar-practitioners, it's important to focus on this because it leads to a better understanding of _anatta_ as "not-self" rather than "no-self":
 
 > The anatta teaching is not a doctrine of no-self, but a not-self strategy for shedding suffering by letting go of its cause, leading to the highest, undying happiness.
 
