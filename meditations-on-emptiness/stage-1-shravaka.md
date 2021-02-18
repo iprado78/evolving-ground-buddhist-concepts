@@ -1,7 +1,5 @@
 # "Emptiness" and Shravakana
 
-## Letting Sutrayana Talk Back
-
 As part of [Evolving Ground](evolvingground.org), we orient the start of Vajrayana practice around the [Four Naljors of the Aro gTér](https://www.aroencyclopaedia.org/shared/text/n/naljors_ar_01_ncr_eng.php).
 
 The first of the four is _shi-nè_. In practicing _shi-ne_, we're meant to be getting acquainted with emptiness:
@@ -10,7 +8,10 @@ The first of the four is _shi-nè_. In practicing _shi-ne_, we're meant to be ge
 
 - Ngakpa Chögyam & Khandro Déchen, _Roaring Silence_, [2002](https://www.amazon.com/Roaring-Silence-Discovering-Mind-Dzogchen/dp/1570629447), p. 88.
 
-As noted in several Evolving Ground discussions, "emptiness"/_sunyata_ is a word which has a long, contested history in Buddhism. There are semi-related meanings leading to semi-related ideas and practices. There are also semi-related words like "not-self"/_anatta_, "cessation"/_nibbana_, and "impermanence"/_anicca_ with contested relationships to "emptiness"/_sunyata_. These differences in meaning or interpretation can be used as a key to understanding the differences between different Buddhisms (and also understanding the roots of the endless misunderstandings and confusions among their advocates and practitioners). Each Buddhist school or vehicle could be understood as explicating a meaning of "emptiness" and elaborating the true Buddhism on its basis.
+As noted in several Evolving Ground discussions, "emptiness"/_sunyata_ is a word which has a long, contested history in Buddhism. There are semi-related meanings leading to semi-related ideas and practices. There are also semi-related words like "not-self"/_anatta_, "cessation"/_nibbana_, and "impermanence"/_anicca_ with contested relationships to "emptiness"/_sunyata_. These differences in meaning or interpretation can be used as a key to understanding the differences between different Buddhisms (and also understanding the roots of the endless misunderstandings and confusions among their advocates and practitioners). Each Buddhist school or vehicle could be understood as explicating a meaning of "emptiness" and elaborating the true Buddhism on its basis.  The school of "Early Buddhist/ms" could be designated, as I will explain, _Shravakana_, and it has a particular view of the meaning and functioning emptiness in the Buddhist path.
+
+## Letting Sutrayana Talk Back
+
 
 I very much like the Aro formulation, ["Buddhism is a religion of method, not truth"](http://ngakma-nordzin.blogspot.com/2011/07/teachers-vehicles-in-buddhism.html). It's one of the main reasons I joined Evolving Ground. While it certainly captures _something_ that's distinctive about Buddhism in the aggregate, it doesn't really reflect the central tendency of how Buddhists and Buddhisms have gone about their thinking and talking. It may be useful then to understand how Buddhists of other Buddhisms say things in their own words (including their meta-view on Buddhism as a religion of truth vs. method). This blog post, then, is about how some Early Buddhism oriented scholar-practitioners view emptiness, not-self, cessation, and their relationship. By "Early Buddhism oriented", I mean people who attempt to ground practice in the Pali canon and allegedly reconstruct what the historical Shakyamuni Buddha thought and taught. I'll also look at what Aro seems to take from the Early Buddhist perspective in its view/method with respect to _shi-nè_, and what it doesn't.
 
